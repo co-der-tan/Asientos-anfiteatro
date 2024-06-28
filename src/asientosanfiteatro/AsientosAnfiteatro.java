@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AsientosAnfiteatro {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+    
 
         String asientos[][] = new String[10][10];
 
