@@ -6,7 +6,7 @@ public class AsientosAnfiteatro {
 
     public static void main(String[] args) {
     
-// comentario nada mas...
+// comentario de prueba para github
         String asientos[][] = new String[10][10];
 
         for (int i = 0; i < asientos.length; i++) {
